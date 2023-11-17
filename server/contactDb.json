@@ -1,0 +1,31 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "first_name": "Mehrdad",
+      "last_name": "Rayati",
+      "username": "mehrdadr",
+      "email": "r.mehrdad@gmail.com",
+      "avatar": "",
+      "password": "Rayati"
+    },
+    {
+      "id": "2",
+      "firstname": "Farhad",
+      "last_name": "Pesarakloo",
+      "username": "farhadp",
+      "email": "p.farhad@gmail.com",
+      "avatar": "",
+      "password": "Pesarakloo"
+    },
+    {
+      "id": "3",
+      "firstname": "Hosein",
+      "last_name": "Rafati",
+      "username": "hoseinr",
+      "email": "r.hosein@gmail.com",
+      "avatar": "",
+      "password": "Rafati"
+    }
+  ]
+}
